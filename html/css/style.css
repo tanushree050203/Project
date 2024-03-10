@@ -519,20 +519,24 @@ a:focus {
 
 /*service section*/
 .service_section{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
+}
+.p{
+    text-align: center;
+    padding: 50%;
 }
 /*end service section*/
 
 /*after 10th section*/
 .after10th_section{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 
@@ -554,10 +558,10 @@ a:focus {
 
 /*after 12th section*/
 .after12th_section{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 
@@ -579,10 +583,11 @@ a:focus {
 
 /*acc section*/
 .acc {
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 
@@ -590,300 +595,330 @@ a:focus {
 
 /*acc1 section*/
 .acc1{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end acc1 section*/
 
 /*bm section*/
 .bm{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end bm section*/
 
 /*business section*/
 .business{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end business section*/
 
 /*commerce section*/
 .commerce {
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end commerce section*/
 
 /*company section*/
 .company{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end company section*/
 
 /*cs section*/
 .cs{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end cs section*/
 
 /*cs1 section*/
 .cs1{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end cs1 section*/
 
 /*ds section*/
 .ds{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end ds section*/
 
 /*engineering section*/
 .engineering{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end engineering section*/
 
 /*engineering1 section*/
 .engineering1{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end engineering1 section*/
 
 /*es section*/
 .es{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end es section*/
 
 /*fd section*/
 .fd{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end fd section*/
 
 /*fs section*/
 .fs{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end fs section*/
 
 /*id section*/
 .id{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end id section*/
 
 /*journ section*/
 .journ{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end journ section*/
 
 /*marm section*/
 .marm{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end marm section*/
 
 /*mbbs section*/
 .mbbs{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end mbbs section*/
 
 /*mm section*/
 .mm{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end mm section*/
 
 /*n section*/
 .n{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end n section*/
 
 /*nursing section*/
 .nursing{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end nursing section*/
 
 /*p section*/
 .p{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end p section*/
 
 /*pharm section*/
 .pharm{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end pharm section*/
 
 /*pharmacy section*/
 .pharmacy{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end pharmacy section*/
 
 /*physio section*/
 .physio{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end physio section*/
 
 /*pilot section*/
 .pilot{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end pilot section*/
 
 /*pm section*/
 .pm{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end pm section*/
 
 /*science section*/
 .science{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end science section*/
 
 /*se section*/
 .se{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end se section*/
 
 /*software section*/
 .software{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end software section*/
 
 /*sw section*/
 .sw{
-    border: 20px solid #ccc;
+    border: 20px solid #3a3f58;
     padding: 20px;
+    border-bottom: 100%;
     background-color: #f5f5f5;
-    border-radius: 20px;
+    border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
 /*end sw section*/

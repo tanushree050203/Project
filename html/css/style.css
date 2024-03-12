@@ -583,7 +583,7 @@ a:focus {
 
 /*acc section*/
 .acc {
-    border: 20px solid #3a3f58;
+    border: 20px flex #3a3f58;
     padding: 20px;
     border-bottom: 100%;
     background-color: #f5f5f5;

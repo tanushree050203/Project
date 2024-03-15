@@ -2,7 +2,7 @@
 @import url("../fonts/octin_sports_rg.ttf");
 
 body {
-    font-family: "Poppins", sans-serif;
+    font-family: "Arial", sans-serif;
     color: #0c0c0c;
     background-color: #ffffff;
     overflow-x: hidden;
@@ -86,7 +86,7 @@ h2 {
 
 .header_section.innerpage_header {
     position: relative;
-    background: #3a3f58;
+    background:#34495e;
     padding: 10px 0;
 }
 
@@ -121,7 +121,7 @@ h2 {
 .custom_menu-btn.menu_btn-style::before {
     width: 100vh;
     height: 100vh;
-    background-color: #3a3f58;
+    background-color: #34495e;
     -webkit-transform: scale(5);
     transform: scale(5);
     border-radius: 0;
@@ -286,17 +286,17 @@ a:focus {
 .about_section .detail-box a {
     display: inline-block;
     padding: 10px 45px;
-    background-color: #3a3f58;
+    background-color: #34495e;
     color: #ffffff;
     border-radius: 0;
-    border: 1px solid #3a3f58;
+    border: 1px solid #34495e ;
     -webkit-transition: all .2s;
     transition: all .2s;
 }
 
 .about_section .detail-box a:hover {
     background-color: transparent;
-    color: #3a3f58;
+    color: #34495e;
 }
 
 .contact_section {
@@ -310,7 +310,7 @@ a:focus {
 }
 
 .contact_section .form_container {
-    background-color: #3a3f58;
+    background-color: #34495e;
     padding: 45px;
     margin-bottom: -90px;
     border: 5px solid #ffffff;
@@ -335,19 +335,19 @@ a:focus {
 }
 
 .contact_section .form_container input::-webkit-input-placeholder {
-    color: #333;
+    color: #34495e;
 }
 
 .contact_section .form_container input:-ms-input-placeholder {
-    color: #333;
+    color: #34495e;
 }
 
 .contact_section .form_container input::-ms-input-placeholder {
-    color: #333;
+    color: #34495e;
 }
 
 .contact_section .form_container input::placeholder {
-    color: #333;
+    color: #34495e;
 }
 
 .contact_section .form_container input.message-box {
@@ -385,7 +385,7 @@ a:focus {
 }
 
 .contact_section .subscribe-box p {
-    color: #777;
+    color: #34495e;
 }
 
 .contact_section .subscribe-box form {
@@ -413,44 +413,44 @@ a:focus {
 }
 
 .contact_section .subscribe-box form input::-webkit-input-placeholder {
-    color: #555;
+    color: #34495e;
 }
 
 .contact_section .subscribe-box form input:-ms-input-placeholder {
-    color: #555;
+    color: #34495e;
 }
 
 .contact_section .subscribe-box form input::-ms-input-placeholder {
-    color: #555;
+    color: #34495e;
 }
 
 .contact_section .subscribe-box form input::placeholder {
-    color: #555;
+    color: #34495e;
 }
 
 .contact_section .subscribe-box form button {
     background-color: transparent;
-    color: #3a3f58;
+    color: #34495e;
     text-transform: uppercase;
     outline: none;
     border: none;
     display: inline-block;
     padding: 10px 45px;
-    background-color: #3a3f58;
+    background-color: #34495e;
     color: #ffffff;
     border-radius: 0;
-    border: 1px solid #3a3f58;
+    border: 1px solid #34495e;
     -webkit-transition: all .2s;
     transition: all .2s;
 }
 
 .contact_section .subscribe-box form button:hover {
     background-color: transparent;
-    color: #3a3f58;
+    color: #34495e;
 }
 
 .info_section {
-    background-color: #262939;
+    background-color: #34495e;
     color: #ffffff;
     padding: 165px 0 75px 0;
 }
@@ -519,23 +519,34 @@ a:focus {
 
 /*service section*/
 .service_section{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
+
+.img-box{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.header_section{
+    text-align: center;
+
+}
+
 .p{
     text-align: center;
-    padding: 50%;
-}
-/*end service section*/
+}/*end service section*/
+
 
 /*after 10th section*/
 .after10th_section{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -558,9 +569,9 @@ a:focus {
 
 /*after 12th section*/
 .after12th_section{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -583,10 +594,10 @@ a:focus {
 
 /*acc section*/
 .acc {
-    border: 20px flex #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -595,10 +606,10 @@ a:focus {
 
 /*acc1 section*/
 .acc1{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -606,10 +617,10 @@ a:focus {
 
 /*bm section*/
 .bm{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -617,10 +628,10 @@ a:focus {
 
 /*business section*/
 .business{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -628,10 +639,10 @@ a:focus {
 
 /*commerce section*/
 .commerce {
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -639,10 +650,10 @@ a:focus {
 
 /*company section*/
 .company{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -650,10 +661,10 @@ a:focus {
 
 /*cs section*/
 .cs{
-    border: 20px solid #3a3f58;
+    border: 20px solid  #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -661,10 +672,10 @@ a:focus {
 
 /*cs1 section*/
 .cs1{
-    border: 20px solid #3a3f58;
+    border: 20px solid  #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -672,10 +683,10 @@ a:focus {
 
 /*ds section*/
 .ds{
-    border: 20px solid #3a3f58;
+    border: 20px solid  #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -683,10 +694,10 @@ a:focus {
 
 /*engineering section*/
 .engineering{
-    border: 20px solid #3a3f58;
+    border: 20px solid  #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -694,10 +705,10 @@ a:focus {
 
 /*engineering1 section*/
 .engineering1{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -705,10 +716,10 @@ a:focus {
 
 /*es section*/
 .es{
-    border: 20px solid #3a3f58;
+    border: 20px solid  #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -716,10 +727,10 @@ a:focus {
 
 /*fd section*/
 .fd{
-    border: 20px solid #3a3f58;
+    border: 20px solid  #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -727,10 +738,10 @@ a:focus {
 
 /*fs section*/
 .fs{
-    border: 20px solid #3a3f58;
+    border: 20px solid  #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -738,10 +749,10 @@ a:focus {
 
 /*id section*/
 .id{
-    border: 20px solid #3a3f58;
+    border: 20px solid  #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -749,10 +760,10 @@ a:focus {
 
 /*journ section*/
 .journ{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -760,10 +771,10 @@ a:focus {
 
 /*marm section*/
 .marm{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -771,10 +782,10 @@ a:focus {
 
 /*mbbs section*/
 .mbbs{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -782,10 +793,10 @@ a:focus {
 
 /*mm section*/
 .mm{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -793,10 +804,10 @@ a:focus {
 
 /*n section*/
 .n{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -804,10 +815,10 @@ a:focus {
 
 /*nursing section*/
 .nursing{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -815,10 +826,10 @@ a:focus {
 
 /*p section*/
 .p{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -826,10 +837,10 @@ a:focus {
 
 /*pharm section*/
 .pharm{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -837,10 +848,10 @@ a:focus {
 
 /*pharmacy section*/
 .pharmacy{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -848,10 +859,10 @@ a:focus {
 
 /*physio section*/
 .physio{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -859,10 +870,10 @@ a:focus {
 
 /*pilot section*/
 .pilot{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -870,10 +881,10 @@ a:focus {
 
 /*pm section*/
 .pm{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -881,10 +892,10 @@ a:focus {
 
 /*science section*/
 .science{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -892,10 +903,10 @@ a:focus {
 
 /*se section*/
 .se{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -903,10 +914,10 @@ a:focus {
 
 /*software section*/
 .software{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }
@@ -914,10 +925,10 @@ a:focus {
 
 /*sw section*/
 .sw{
-    border: 20px solid #3a3f58;
+    border: 20px solid #34495e;
     padding: 20px;
     border-bottom: 100%;
-    background-color: #f5f5f5;
+    background-color: white;
     border-radius: 1px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.1);
 }

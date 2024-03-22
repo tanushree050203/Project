@@ -515,6 +515,47 @@ a:focus {
   border-color: #e45441;
 }
 
+.site-footer {
+    background-color: #34495e;
+      text-align: left;
+      margin: 0;
+      padding: 0;
+  }
+  
+  #social-wrapper {
+      text-align: left;
+  }
+  
+  /*Social Media Icons*/
+  .social-wrapper {
+      text-align: left;
+  }
+  
+  .social-wrapper ul li {
+      display: inline;
+      margin: 2px;
+  }
+  
+  .twitter-icon,
+  .facebook-icon,
+  .instagram-icon,
+  .linkedin-icon {
+      margin-top: .625em;
+      width: 40px;
+      height: 40px;
+      opacity: .6;
+      filter: alpha(opacity=60); /* For IE8 and earlier */
+    border-radius: 25px;
+  }
+  
+  .twitter-icon:hover,
+  .facebook-icon:hover,
+  .instagram-icon:hover,
+  .linkedin-icon:hover {
+      opacity: 1.0;
+      filter: alpha(opacity=100); /* For IE8 and earlier */
+  }
+
 /*service section*/
 .service_section .row {
     -webkit-box-align: center;
